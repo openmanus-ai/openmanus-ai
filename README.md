@@ -60,7 +60,7 @@ This project is licensed under the Apache-2.0 License - see the LICENSE file for
 
 ## 🔗 Links
 
-- [Website](https://openmanus.org) (Coming soon)
+- [Website](https://openmanus.org)
 - [GitHub Repository](https://github.com/openmanus-ai/openmanus)
 - [Early Access Form](https://heyform.net/f/ERGk1fvo)
 
