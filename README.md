@@ -1,69 +1,83 @@
 # OpenManus AI
 
-OpenManus AI is our implementation of an AI agent platform designed to make advanced AI capabilities accessible to everyone. We're building a user-friendly service that eliminates technical barriers and provides a seamless experience for creating and managing AI agents.
+OpenManus AI is an AI agent platform designed to make advanced automation
+capabilities accessible through a user-friendly service. The project aims to
+remove technical barriers for creating, managing, and collaborating with agents
+while keeping security, transparency, and operational reliability at the center
+of the platform design.
 
-## 🌟 Key Features
+## Key Features
 
-- **User-Friendly Interface**: An intuitive web-based interface accessible from any device
-- **No Technical Setup Required**: Pre-configured settings and simplified API key management
-- **Customizable Agents**: Create agents tailored to your specific needs and workflows
-- **Powerful Capabilities**: Leverage large language models to automate complex tasks
-- **Community-Driven**: Built with user feedback and continuous improvement in mind
+- **User-friendly interface**: A responsive web interface for configuring,
+  running, and monitoring agents.
+- **No technical setup required**: Guided onboarding, sensible defaults, and
+  simplified model/API key management.
+- **Customizable agents**: Agent profiles tailored to specific domains,
+  workflows, tools, and policies.
+- **Advanced task execution**: Planning, tool use, memory, and multi-step
+  workflows built around clear operator control.
+- **Collaboration-ready**: Shared workspaces, team handoff patterns, and
+  auditable agent activity.
+- **Security-aware by design**: Credential isolation, scoped tool access,
+  prompt-injection hardening, and administrative audit logs.
 
-## 🛠️ Development Status
+## Development Status
 
-Our project is currently in active development. We're working on:
+OpenManus AI is in active development. Current work focuses on:
 
-- Building the core AI agent functionality
-- Developing a polished web interface
-- Implementing user authentication and management
-- Setting up the infrastructure for our service
+- Core agent orchestration and runtime abstractions
+- Web-based agent management workflows
+- Authentication, authorization, and account management
+- Safe API and tool execution boundaries
+- Deployment and observability foundations
 
-## 📋 Roadmap
+## Documentation
 
-- **Web Interface**: A polished, responsive interface for interacting with AI agents
-- **API Access**: Programmatic access for developers
-- **Advanced Task Planning**: Enhanced capabilities for complex, multi-step tasks
-- **Customizable Agents**: Tools for creating specialized agents for specific domains
-- **Collaboration Features**: Sharing and collaborating on agents with team members
+- [Architecture](docs/architecture.md): proposed platform components,
+  boundaries, and data flow.
+- [API design](docs/api-design.md): API conventions, endpoint shapes, event
+  streaming, and error handling.
+- [Security and safety](docs/security-and-safety.md): threat model,
+  credential handling, prompt-injection controls, and audit expectations.
+- [Roadmap](docs/roadmap.md): phased delivery plan for the product and
+  engineering work.
+- [Contributing](CONTRIBUTING.md): how to propose changes and submit pull
+  requests.
+- [Security policy](SECURITY.md): how to report vulnerabilities privately.
 
-## 🤝 Contributing
+## Use Cases
 
-We welcome contributions from the community! Whether you're a developer, designer, or potential user, your input can help shape the future of our service.
+OpenManus can support a wide range of agent workflows, including:
 
-### Ways to Contribute
+- **Travel planning**: Personalized itineraries, schedules, and destination
+  research.
+- **Financial analysis**: Market research, portfolio summaries, and dashboard
+  generation.
+- **Educational content**: Interactive course material, quizzes, and learning
+  assistants.
+- **Business intelligence**: Data exploration, reporting, and decision support.
+- **Customer research**: Prospect discovery, segmentation, and outreach
+  preparation.
 
-- **Code Contributions**: Help implement new features or fix bugs
-- **User Testing**: Provide feedback on the user experience
-- **Documentation**: Help improve our documentation
-- **Feature Suggestions**: Share your ideas for new features
+## Get Involved
 
-## 📚 Use Cases
+- [Sign up for early access](https://heyform.net/f/ERGk1fvo)
+- Star and watch this repository for updates
+- Open an issue with product feedback, use cases, or implementation proposals
+- Review the [contribution guide](CONTRIBUTING.md) before opening a pull
+  request
 
-OpenManus can be used for a wide range of tasks, including:
+## License
 
-- **Travel Planning**: Create personalized travel itineraries and guides
-- **Financial Analysis**: Analyze stocks and create comprehensive dashboards
-- **Educational Content**: Develop interactive courses and teaching materials
-- **Business Intelligence**: Analyze data and generate actionable insights
-- **Customer Research**: Identify potential customers and create targeting strategies
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE)
+for details.
 
-## 📬 Get Involved
-
-- **Early Access**: [Sign up for early access](https://heyform.net/f/ERGk1fvo)
-- **GitHub**: Star and watch this repository for updates
-- **Feedback**: Share your thoughts on what features would be most valuable
-
-## 📄 License
-
-This project is licensed under the Apache-2.0 License - see the LICENSE file for details.
-
-## 🔗 Links
+## Links
 
 - [Website](https://openmanus.org)
-- [GitHub Repository](https://github.com/openmanus-ai/openmanus)
-- [Early Access Form](https://heyform.net/f/ERGk1fvo)
+- [GitHub repository](https://github.com/openmanus-ai/openmanus-ai)
+- [Early access form](https://heyform.net/f/ERGk1fvo)
 
 ---
 
-<p align="center">© 2025 OpenManus AI - Making AI agent technology accessible to everyone</p>
+<p align="center">Copyright 2025 OpenManus AI - Making AI agent technology accessible to everyone</p>
